@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first git Repository.
 <br>
-Author - Namrata Jain
+Author - Namrata (ggits)
